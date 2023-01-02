@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Padadida
 - 👀 I’m interested in board games, pottery and newly in programming.
 - 🌱 I’m currently learning International studies and Polish language and literature in Budapest, both are in BA level.
-- 💞️ I’m eagering to learn basics code languages in my spare time. My inspiration came from my LIS (library and information science) minor programme at the university.
+- 💞️ I’m eagering to learn code languages in my spare time. My inspiration came from my LIS (library and information science) minor programme at the university.
 - 📫 hajdu.gabi08@gmail.com
 
 <!---
